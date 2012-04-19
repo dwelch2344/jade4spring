@@ -23,7 +23,7 @@ Getting the Source
 
 Similar to the jade4j project, just clone...
 
-	git@github.com:dwelch2344/jade4spring.git
+	git clone git@github.com:dwelch2344/jade4spring.git
 
 ... and build with maven...
 
