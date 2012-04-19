@@ -20,15 +20,22 @@ An example of the Spring XML configuration:
 	
 Getting the Source
 ==================
+
 Similar to the jade4j project, just clone...
+
 	git@github.com:dwelch2344/jade4spring.git
+
 ... and build with maven...
+
 	cd jade4spring
 	mvn install
+
 ... and add it as a dependency...
+
 	<dependency>
 		<groupId>co.ntier</groupId>
 		<artifactId>jade4spring</artifactId>
 		<version>1.0.0</version>
 	</dependency>
+	
 ... or use the co.ntier.jade4spring-1.x.x.jar
